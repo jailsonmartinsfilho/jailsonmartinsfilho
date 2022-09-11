@@ -14,7 +14,6 @@
   <img align="center" alt="Ja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ja-Renpy" height="30" width="30" src="https://alternative.me/media/256/renpy-icon-5rhktb5lrepss74m-c.png">
-  <img align="right" alt="Ja-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/977441526785396758/1018568914671771648/2.png?width=676&height=676">
 </div>
 
 ##
