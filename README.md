@@ -1,5 +1,5 @@
-## 🌱 Estou estudando Python, C#, Html, Css, JavaScript e Renpy
-Cursando Desenvolvimento de Sistemas - Etec 💻
+## 🌱 Estou estudando Html/Css/JavaScript, React, React Native e Python
+## Cursando Desenvolvimento de Sistemas - Etec 💻
 
 <div align="center">
   <a href="https://github.com/jailsonmartinsfilho">
