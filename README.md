@@ -1,26 +1,26 @@
-## 🌱 Estou estudando Html/Css/JavaScript, React, React Native e Python
-## Cursando Desenvolvimento de Sistemas - Etec 💻
+<p align="center">
+    <h2 align="center">Bem-vindo</h2>
+    <p align="center">
+        <a href="https://github.com/jailsonmartinsfilho?tab=followers">
+        <img src="https://img.shields.io/github/followers/jailsonmartinsfilho?style=for-the-badge" alt="mtfy's GitHub Followers" title="jailsonmartinsfilho GitHub Followers">
+        </a> 
+        <a href="#"><img src="https://img.shields.io/github/stars/jailsonmartinsfilho?style=for-the-badge" alt="jailsonmartinsfilho's GitHub Stars" title="jailsonmartinsfilho's GitHub Stars"></a>
+    </p>
+</p>
 
-<div align="center">
-  <a href="https://github.com/jailsonmartinsfilho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jailsonmartinsfilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&theme=dark"/>
-</div>
+<p align="center">Eu sou um <a href="https://www.cisa.gov/careers/work-rolessystem-administrator">estudante de Desenvolvimento de Sistemas</a> Com um grande interesse na criação aplicativos. Durante os meus estudos, fui intensamente atraído pela criação de <a href="https://en.wikipedia.org/wiki/Reverse_engineering">Web Aplicações</a> e 
+<a href="https://en.wikipedia.org/wiki/Malware_analysis">Aplicativos Mobile.</a>. Como um estudante de Desenvolvimento de sistemas, estou me empenhando em me manter atualizado com os desenvolvimentos mais recentes na
+área para criar ferramentas cada vez mais atualizadas e com boas tecnologias.</a>Meus estudos na comunidade de desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação.
+Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. Terei muito orgulho em ajudar as pessoas que estão trilhando o mesmo caminho que eu a criarem seus aplicativos também.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ja-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ja-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ja-Renpy" height="30" width="30" src="https://alternative.me/media/256/renpy-icon-5rhktb5lrepss74m-c.png">
-</div>
+<p align="center">
+    <a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api?username=jailsonmartinsfilho&theme=tokyonight&hide=prs,issues&count_private=true" title="jailsonmartinsfilho's GitHub Statistics" alt="jailsonmartinsfilho's GitHub Statistics"></a> 
+<a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&&theme=tokyonight&layout=compact" title="jailsonmartinsfilho's Most Used Languages" alt="jailsonmartinsfilho's Most Used Languages"></a>
+</p>
 
-##
-
-<div> 
-  <a href="https://www.instagram.com/j4_martinss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatojailsonmartinsfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jailson-martins-764bb5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p>
+    <h3>Contato</h3>
+    <ul>
+        <li>Email: <a href="https://mail.google.com/mail/u/0/">contatojailsonmartinsfilho@gmail.com</a></li>
+    </ul>
+</p>
