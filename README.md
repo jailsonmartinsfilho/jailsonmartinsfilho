@@ -8,7 +8,14 @@
     </p>
 </p>
 
-<p align="center">Sou estudante de [Desenvolvimento de Sistemas](https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/) com um grande interesse na criação de aplicativos, especialmente [Web Aplicações](https://aws.amazon.com/pt/what-is/webapplication/#:~:text=Uma%20aplica%C3%A7%C3%A3o%20Web%20%C3%A9%20um,de%20forma%20conveniente%20e%20segura) e [Aplicativos Mobiles](https://www.simples.net/aplicativos-mobile/planejamento). Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. Terei orgulho em ajudar outros estudantes e também em ser ajudado.</p>
+<div align="center">
+  <p>Sou estudante de <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos, especialmente <a href="https://aws.amazon.com/pt/what-is/webapplication/#:~:text=Uma%20aplica%C3%A7%C3%A3o%20Web%20%C3%A9%20um,de%20forma%20conveniente%20e%20segura">Web Aplicações</a> e <a href="https://www.simples.net/aplicativos-mobile/planejamento">Aplicativos Mobiles</a>. 
+  Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. 
+  Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. 
+  Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. 
+  Terei orgulho em ajudar outros estudantes e também em ser ajudado.</p>
+</div>
+
 
 <p align="center">
     <a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api?username=jailsonmartinsfilho&theme=tokyonight&hide=prs,issues&count_private=true" title="jailsonmartinsfilho's GitHub Statistics" alt="jailsonmartinsfilho's GitHub Statistics"></a> 
