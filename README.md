@@ -8,7 +8,7 @@
     </p>
 </p>
 
-<p align="center">Sou estudante de <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos, especialmente Web Aplicações e Aplicativos Mobile. <br>
+<p align="center">Sou estudante de <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos, especialmente <a href="[[https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/](https://aws.amazon.com/pt/what-is/web-application/#:~:text=Uma%20aplica%C3%A7%C3%A3o%20Web%20%C3%A9%20um,de%20forma%20conveniente%20e%20segura.)">Web Aplicações</a> e <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/](https://www.simples.net/aplicativos-mobile/planejamento)">Aplicativos Mobiles</a>. 
     Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. <br>
 </a> Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. <br>
 Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. <br>
