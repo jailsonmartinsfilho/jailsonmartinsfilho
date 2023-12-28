@@ -8,12 +8,11 @@
     </p>
 </p>
 
-<p align="center">Eu sou um <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">estudante de Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos. <br>
-    Durante os meus estudos, fui intensamente atraído pela criação de <a href="https://rockcontent.com/br/talent-blog/aplicacao-web/">Web Aplicações</a> e 
-<a href="https://www.simples.net/aplicativos-mobile/planejamento">Aplicativos Mobile.</a> 
-Como um estudante, estou me empenhando em me manter atualizado com os desenvolvimentos mais recentes na área para criar ferramentas cada vez mais atualizadas e com boas tecnologias.
-</a> Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. 
-Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. Terei muito orgulho em ajudar as pessoas que estão trilhando o mesmo caminho que eu a criarem seus aplicativos.
+<p align="center">Sou estudante de <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos, especialmente Web Aplicações e Aplicativos Mobile. <br>
+    Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. <br>
+</a> Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. <br>
+Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. <br>
+Terei orgulho em ajudar outros estudantes e também em ser ajudado.
 
 <p align="center">
     <a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api?username=jailsonmartinsfilho&theme=tokyonight&hide=prs,issues&count_private=true" title="jailsonmartinsfilho's GitHub Statistics" alt="jailsonmartinsfilho's GitHub Statistics"></a> 
