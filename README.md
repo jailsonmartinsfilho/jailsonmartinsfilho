@@ -1,27 +1,50 @@
-<p align="center">
-    <h2 align="center">Bem-vindo</h2>
-    <p align="center">
-        <a href="https://github.com/jailsonmartinsfilho?tab=followers">
-        <img src="https://img.shields.io/github/followers/jailsonmartinsfilho?style=for-the-badge" alt="mtfy's GitHub Followers" title="jailsonmartinsfilho GitHub Followers">
-        </a> 
-        <a href="#"><img src="https://img.shields.io/github/stars/jailsonmartinsfilho?style=for-the-badge" alt="jailsonmartinsfilho's GitHub Stars" title="jailsonmartinsfilho's GitHub Stars"></a>
-    </p>
-</p>
-
-<p align="center">Sou estudante de <a href="https://kenzie.com.br/blog/o-que-estuda-analise-desenvolvimento-sistemas/">Desenvolvimento de Sistemas</a> com um grande interesse na criação de aplicativos, especialmente <a href="https://aws.amazon.com/pt/what-is/web-application/#:~:text=Uma%20aplica%C3%A7%C3%A3o%20Web%20%C3%A9%20um,de%20forma%20conveniente%20e%20segura.">Web Aplicações</a> e <a href="https://www.simples.net/aplicativos-mobile/planejamento">Aplicativos Mobiles</a>. 
+<p align="center">Sou um estudante de Desenvolvimento de Sistemas com um grande interesse na criação de aplicativos, especialmente Web Aplicações e Aplicativos Mobile. 
 Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. 
-Meu estudo em desenvolvimento me ensinou a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior seriedade e dedicação. 
-Estou empenhado em garantir que todos os sistemas sob meus cuidados estejam seguros e bem funcionais. 
-Terei orgulho em ajudar outros estudantes e também em ser ajudado.
-
-<p align="center">
-    <a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api?username=jailsonmartinsfilho&theme=tokyonight&hide=prs,issues&count_private=true" title="jailsonmartinsfilho's GitHub Statistics" alt="jailsonmartinsfilho's GitHub Statistics"></a> 
-<a href="https://github.com/jailsonmartinsfilho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&&theme=tokyonight&layout=compact" title="Linguagens mais usadas" alt="jailsonmartinsfilho's Most Used Languages"></a>
+Meu estudo em desenvolvimento vem me ensinando a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior dedicação. 
 </p>
+
+## Meus conhecimentos
+<div>
+
+### Linguagens
+| JavaScript | TypeScript | 
+|:----------:|:----------:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>|
+
+### Frameworks e Bibliotecas
+| React | React Native | 
+|:----------:|:----------:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native"  alt="React Native" width="55" height="55"/>|
+
+### Banco de dados:
+| MySQL | MongoDB | 
+|:------------:|:------------:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
+
+
+### Outras:
+
+| Node | Discord.js |
+|:----------:|:----------:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="NodeJS" width="55" height="55"/>|<img src="ttps://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="55" height="55"/>|
+
+</div>
+---
+<p align="center">
+  <img width="800" height="220" align="center" src="https://streak-stats.demolab.com?user=jailsonmartinsfilho&theme=midnight-purple&hide_border=true&border_radius=5&card_width=800">
+</p>
+---
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple">
+</p>
+
 
 <p>
     <h3>Contato</h3>
     <ul>
         <li>Email: <a href="https://mail.google.com/mail/u/0/">jailsonfilho0518@gmail.com</a></li>
+    </ul>
+    <ul>
+        <li>Linkedin: <a href="https://www.linkedin.com/in/jailsonmartinsfilho/">https://www.linkedin.com/in/jailsonmartinsfilho/</a></li>
     </ul>
 </p>
