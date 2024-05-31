@@ -1,4 +1,4 @@
-<p align="center">Sou um estudante de Desenvolvimento de Sistemas com um grande interesse na criação de aplicativos, especialmente Web Aplicações e Aplicativos Mobile. 
+<p align="left">Sou um estudante de Desenvolvimento de Sistemas com um grande interesse na criação de aplicativos, especialmente Web Aplicações e Aplicativos Mobile. 
 Estou empenhado em me manter atualizado com as últimas tecnologias do mercado para desenvolver ferramentas otimizadas. 
 Meu estudo em desenvolvimento vem me ensinando a importância de uma atenção meticulosa aos detalhes, e como estudante abordo cada projeto com a maior dedicação. 
 </p>
@@ -16,28 +16,29 @@ Meu estudo em desenvolvimento vem me ensinando a importância de uma atenção m
 |:----------:|:----------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native"  alt="React Native" width="55" height="55"/>|
 
-### Banco de dados:
+### Banco de dados
 | MySQL | MongoDB | 
 |:------------:|:------------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
 
 
-### Outras:
+### Outros
 
 | Node | Discord.js |
 |:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="NodeJS" width="55" height="55"/>|<img src="ttps://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="55" height="55"/>|
 
 </div>
+
 ---
 <p align="center">
   <img width="800" height="220" align="center" src="https://streak-stats.demolab.com?user=jailsonmartinsfilho&theme=midnight-purple&hide_border=true&border_radius=5&card_width=800">
 </p>
----
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonmartinsfilho&hide_border=true&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple">
 </p>
 
+---
 
 <p>
     <h3>Contato</h3>
