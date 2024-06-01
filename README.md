@@ -12,9 +12,9 @@ Meu estudo em desenvolvimento vem me ensinando a importância de uma atenção m
 |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>|
 
 ### Frameworks e Bibliotecas
-| React | React Native | 
+| React | Express | 
 |:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native"  alt="React Native" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>|
 
 ### Banco de dados
 | MySQL | MongoDB | 
